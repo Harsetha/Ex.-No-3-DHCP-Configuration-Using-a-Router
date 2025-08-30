@@ -65,6 +65,11 @@ ________________________________________
 •	DHCP IP configuration shown in PC0 and PC1<br>
 •	Router configuration screen<br>
 •	Successful ping test between the two PCs<br>
+<img width="1920" height="1080" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/354864be-2ba7-421b-93fc-24eaace51658" />
+<img width="1920" height="1080" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/5eeaffd2-7bf3-44c1-9507-a2e7c99a940d" />
+<img width="1920" height="1080" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/9f56c5ce-a891-4748-bb5b-2d73976dc39e" />
+<img width="1920" height="1080" alt="Screenshot (207)" src="https://github.com/user-attachments/assets/31eaea74-459b-41a5-b531-c2fc35c49b74" />
+
 ________________________________________
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
